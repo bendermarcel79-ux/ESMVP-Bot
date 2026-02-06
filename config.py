@@ -1,4 +1,4 @@
-TOKEN = "MTQ1MDkwMDg2Njk3MzU2OTE4Nw.GpUQXa.GcdL4_rBcfjwgTtFrfQl1XLZ1nrQ9JWyjdBqD8"
+TOKEN = "Insert your bot token here"
 
 # ================= ROLES =================
 STAFF_ROLE_ID = 1449426837695369346
@@ -82,4 +82,5 @@ https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standard
 """
 
 RULES_COLOR = 0xFFAA00
+
 
